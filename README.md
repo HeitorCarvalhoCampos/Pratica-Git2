@@ -2,11 +2,41 @@
 # Mercado Virtual
 
 Um projeto que simula um mercado virtual. Com um catálogo, carrinho de compras e recibo após finalizar a compra.
+## Funcionalidades
+
+- Seleção de produtos
+- Carrinho de compras
+- Remoção de produtos
+- Recibo com informações
+
+
 ## Stack utilizada
+
+**Plataforma:** Visual Studio Code
 
 **Front-end:** HTML, CSS
 
 **Back-end:** JavaScript
+
+
+## Instalação
+
+Para instalar o projeto localemte execute esse comando:
+
+```bash
+  git clone <project url>
+```
+Tenha certeza de ter instalado a extenção: "Live Server"
+## Execução
+
+Para rodar o projeto, clique com o botão direito no projeto e em seguida selecione a opção:
+
+```bash
+  Open with Live Server
+```
+Tenha certeza de ter a extenção instalada.
+
+Após executar você pode realizar simulações de compras ao adicionar ou remover itens da sua lista de compras, pode pagar com créditos e após o pagamento um recibo é gerado.
 
 
 ## Autores
