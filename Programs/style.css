@@ -52,7 +52,7 @@ th, td{
     padding: 5px;
 }
 #nota-fiscal{
-    display:flex;
+    display:grid;
     position: absolute;
     width: 400px;
     min-height: 400px;
@@ -61,9 +61,12 @@ th, td{
     /* border: 2px solid black; */
     border-radius: 35px;
     box-shadow: black -10px 10px 30px;
-    justify-content: center;
     top: 15px;
     left: 15px;
+}
+#nota-fiscal h3{
+    width: 100%;
+    text-align: center;
 }
 #carrinho{
     display:grid;
